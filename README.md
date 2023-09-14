@@ -1,2 +1,5 @@
 # Программа "Помощник для колледжа"
-![Главное меню]()
+![Авторизация](https://github.com/Egor609/college-helper/blob/master/Авторизация.png)
+![Регистрация](https://github.com/Egor609/college-helper/blob/master/Регистрация.png)
+![Профиль](https://github.com/Egor609/college-helper/blob/master/Профиль.png)
+![Функционал](https://github.com/Egor609/college-helper/blob/master/Функционал.png)
