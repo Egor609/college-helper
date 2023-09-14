@@ -1,0 +1,81 @@
+#buttons {
+ -fx-pref-width: 182px;
+ -fx-pref-height: 70px;
+ -fx-background-color:"transparent";
+ -fx-border-color: transparent;
+ -fx-border-width: 0 2px 0 0 ;
+
+
+ }
+
+ #buttons:hover {
+     -fx-background-color: transparent;
+      -fx-border-color: "black"  ;
+ }
+
+
+ #labels {
+      -fx-font-size: 17px;
+      -fx-font-family: "Microsoft JhengHei Light";
+      -fx-text-fill: black;
+
+ }
+
+
+#btn {
+ -fx-pref-width: 150px;
+ -fx-pref-height: 40px;
+ -fx-border-radius: 7;
+ -fx-background-radius: 7;
+ -fx-background-color:"white";
+      -fx-font-family: "Microsoft JhengHei Light";
+    -fx-font-size: 18;
+    -fx-text-fill: "black";
+
+
+ }
+
+
+#btn:hover {
+    -fx-background-color: transparent;
+     -fx-border-color: "black" ;
+         -fx-text-fill:"black";
+
+}
+
+
+#event{
+    -fx-pref-width: 90px;
+    -fx-background-color: "white";
+    -fx-border-width:0;
+}
+
+#event .arrow{
+    -fx-background-color:"black";
+}
+
+Text {
+    -fx-font-size: 15px;
+    -fx-font-family: "Microsoft JhengHei Light";
+    -fx-text-fill: black;
+}
+
+#text {
+    -fx-font-size: 15px;
+    -fx-font-family: "Microsoft JhengHei Light";
+    -fx-text-fill: black;
+}
+
+#edit {
+        -fx-border-color:"transparent";
+        -fx-background-color: transparent;
+        -fx-font-size: 12px;
+        -fx-font-family: "Microsoft JhengHei Light";
+        -fx-text-fill: black;
+}
+
+#for_group {
+        -fx-font-size: 25px;
+        -fx-font-family: "Microsoft JhengHei Light";
+        -fx-text-fill: black;
+}
